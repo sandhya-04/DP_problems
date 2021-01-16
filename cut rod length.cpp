@@ -25,3 +25,4 @@ int main()
 		cout<<find(a,n)<<endl;
 	}
 }
+/*---------end of this code--------*/
