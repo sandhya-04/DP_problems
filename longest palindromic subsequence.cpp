@@ -1,4 +1,5 @@
 /*---------longest palindromic subsequnce-------*/
+// time complexity is O(n^2) which is better than recursive approach
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
