@@ -1,4 +1,5 @@
 /*--------maximum adjacent sum---------*/
+//time complexity is O(n)
 #include<bits/stdc++.h>
 using namespace std;
 int a[1001];
